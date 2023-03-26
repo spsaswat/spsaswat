@@ -6,7 +6,7 @@
 
 🔭 Currently working on:
 
-- CECC Research Assistant - Cleaning time-series data, analyzing it, and applying machine learning methods to segregate plants according to stresses.
+- CECC Research Assistant - Cleaning time-series data using data science and 2D/3D Computer vision, analyzing it, and applying machine learning methods to segregate plants according to stresses.
 - RSE Research Assistant - Working with raw societal data, using computer vision and NLP to extract meaningful information and analyze it.
 
 🌱 Skills:
