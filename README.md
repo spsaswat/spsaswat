@@ -29,6 +29,12 @@
 
 ⚡ Fun fact: I love exploring new technologies and building innovative projects!
 
+![Saswat's GitHub stats](https://github-readme-stats.vercel.app/api?username=spsaswat&show_icons=true&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spsaswat&layout=compact)
+
+
+
 <!--
 **spsaswat/spsaswat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
