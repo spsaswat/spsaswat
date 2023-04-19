@@ -1,6 +1,6 @@
 # Hi there, I'm Saswat Panda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-👨‍💼 Research Assistant (ML, CV, and NLP) at The Australian National University
+👨‍💼 APPF Research Officer (ML, and CV) at The Australian National University
 
 🎓 Bachelor of Advanced Computing (Hons) from The Australian National University
 
