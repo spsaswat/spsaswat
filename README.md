@@ -4,14 +4,15 @@
 
 🎓 Bachelor of Advanced Computing (Hons) from The Australian National University
 
-🔭 Currently working on:
+🎯 Currently Engaged In:
 
-- APPF Research Officer - Working on building 3D+Hyperspectral scanners and processing the data to generate important plant traits.
-  
-- RSE Research Assistant - Working with raw societal data, using computer vision and NLP to extract meaningful information and analyze it.
-🔭 Previously worked on:
+🌱 APPF Research Officer: Engaged in building 3D+Hyperspectral scanners and processing the data to generate vital plant traits.
 
-- CECC Research Assistant - Cleaning time-series data using data science and 2D/3D Computer vision, analyzing it, and applying machine learning methods to segregate plants according to stresses.
+💡 RSE Research Assistant: Employing computer vision and Natural Language Processing (NLP) to derive meaningful insights from raw societal data.
+
+🎯 Previous Engagements:
+
+📚 CECC Research Assistant: Cleaned time-series data using data science and 2D/3D Computer vision. Further analyzed the data and applied machine learning methods for segregating plants based on their stresses.
   
 🌱 Skills:
 
