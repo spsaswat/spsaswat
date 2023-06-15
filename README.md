@@ -6,9 +6,13 @@
 
 🔭 Currently working on:
 
-- CECC Research Assistant - Cleaning time-series data using data science and 2D/3D Computer vision, analyzing it, and applying machine learning methods to segregate plants according to stresses.
+- APPF Research Officer - Working on building 3D+Hyperspectral scanners and processing the data to generate important plant traits.
+  
 - RSE Research Assistant - Working with raw societal data, using computer vision and NLP to extract meaningful information and analyze it.
+🔭 Previously worked on:
 
+- CECC Research Assistant - Cleaning time-series data using data science and 2D/3D Computer vision, analyzing it, and applying machine learning methods to segregate plants according to stresses.
+  
 🌱 Skills:
 
 - **Advanced**: SQL, Computer Vision (2D & 3D), Data Engineering and Analysis (Python/R), Machine Learning (Python/R)
