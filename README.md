@@ -34,6 +34,8 @@
 
 ⚡ Fun fact: I love exploring new technologies and building innovative projects!
 
+![Profile views](https://komarev.com/ghpvc/?username=spsaswat&label=Profile%20views&color=0e75b6&style=flat)
+
 ![Saswat's GitHub stats](https://github-readme-stats.vercel.app/api?username=spsaswat&show_icons=true&count_private=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spsaswat&layout=compact)
