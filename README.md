@@ -6,7 +6,7 @@
 
 🎯 Currently Engaged In:
 
-🌱 APPF Research Officer: Engaged in building 3D+Hyperspectral scanners and processing the data to generate vital plant traits.
+🌱 APPF Research Officer (AI): Engaged in building intelligent scanners and processing the data to generate vital plant traits.
 
 🎯 Previous Engagements:
 
