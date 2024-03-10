@@ -8,9 +8,9 @@
 
 🌱 APPF Research Officer: Engaged in building 3D+Hyperspectral scanners and processing the data to generate vital plant traits.
 
-💡 RSE Research Assistant: Employing computer vision and Natural Language Processing (NLP) to derive meaningful insights from raw societal data.
-
 🎯 Previous Engagements:
+
+💡 RSE Research Assistant: Employing computer vision and Natural Language Processing (NLP) to derive meaningful insights from raw societal data.
 
 📚 CECC Research Assistant: Cleaned time-series data using data science and 2D/3D Computer vision. Further analyzed the data and applied machine learning methods for segregating plants based on their stresses.
   
